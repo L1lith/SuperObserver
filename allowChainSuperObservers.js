@@ -1,3 +1,4 @@
+const SuperObserver = require('./SuperObserver')
 const chainObservers = require('./chainObservers')
 
 function allowChainSuperObservers(parent, filter, options) {
