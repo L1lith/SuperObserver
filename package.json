@@ -1,0 +1,23 @@
+{
+  "name": "superobserver",
+  "version": "1.0.0",
+  "description": "Simplifying the MutationObserver API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L1lith/SuperObserver.git"
+  },
+  "keywords": [
+    "MutationObserver",
+    "Javascript"
+  ],
+  "author": "Lilith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L1lith/SuperObserver/issues"
+  },
+  "homepage": "https://github.com/L1lith/SuperObserver#readme"
+}
